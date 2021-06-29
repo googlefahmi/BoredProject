@@ -1,0 +1,1 @@
+Im bored to death so I'm creating Aplikasi Management Sekolah, again don't use it for production since i built this in my free time
